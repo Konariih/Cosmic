@@ -27,3 +27,5 @@
 
 Cosmic was and continues to be by **Raizer**. All credits go towards him.
 This fork was from 3 weeks before he deleted the Git. There is nothing custom about this, this was made so I could pull request online rankings, and they were merged before it.
+
+Feel free to merge req If you have something. :)
