@@ -22,5 +22,8 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/devraizer/Cosmic.git`
+- Clone this repo to your local machine using `https://github.com/Konariih/Cosmic.git`
 
+
+Cosmic was and continues to be by **Raizer**. All credits go towards him.
+This fork was from 3 weeks before he deleted the Git. There is nothing custom about this, this was made so I could pull request online rankings, and they were merged before it.
